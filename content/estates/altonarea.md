@@ -14,15 +14,18 @@ planning:
 ---
 ![Alton estate image](src/images/altonthumblarge.jpg)
 
-288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
+As detailed in Wandsworth Council’s 2014 Regeneration Masterplan for the estate, 288 homes were earmarked for demolition on Wandsworth's Alton estate in Roehampton, but due to pressures arising from the pandemic, the withdrawal of the developer from the scheme and a change in political administration, Wandsworth Council stopped the procurement for a new development partner and announced they would reconsider proposals for regeneration in September 2022. In this announcement they stated that they were willing to explore all options.
 
-Wandsworth Council [claims](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf) that demolition is necessary because the design of the buildings is poor and encourages anti-social behaviour:
+The homes that were under threat of demolition stand around Danebury Avenue to the Southeast of the Estate rather than the tower blocks clustered in the middle of the estate or the five large linear blocks to the north, which are listed. 
+
+
+Wandsworth Council had [claimed](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf) that demolition was necessary because the design of the buildings is poor and encourages anti-social behaviour:
 
 ![Alton estate image](src/images/altospd.png)
 
 In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
-Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it is [claimed](https://planning2.wandsworth.gov.uk/iam/IAMCache/5300271/5300271.pdf) that *"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"*.
+Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it was [claimed](https://planning2.wandsworth.gov.uk/iam/IAMCache/5300271/5300271.pdf) that *"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"*.
 
 ![Alton estate image](src/images/socialmix.png)
 
@@ -34,15 +37,24 @@ The requirement for the demolition of housing estates only to be considered as a
 
 ![Alton estate image](src/images/londplanh8.png)
 
-Despite these concerns, the Mayor's stage 2 report concluded that on balance the Mayor is happy with Wandsworth's decision to approve its planning application for the redevelopment of the estate.
+Despite these concerns, the Mayor's stage 2 [report](https://twitter.com/AltonAction/status/1322956962439507971) concluded that on balance the Mayor was happy with Wandsworth's decision to approve its planning application for the redevelopment of the estate.
 
-In the meantime, estate residents got themselves [organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
+In the meantime, estate residents got themselves [organised](https://twitter.com/AltonAction/status/1322956962439507971) aand formed the Alton Action campaign. They reached out to Daniel Fitzpatrick and Pablo Sendra, who then brought in Just Space, and with their support successfully applied for funding from Research England’s Higher Education Innovation Fund to co-produce a Community Plan exploring alternatives to demolition. In this process they were assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
+
+Between October 2020 and July 2021, this team conducted a knowledge exchange project ‘Co-designing neighbourhoods with communities in a blended environment: digital and face-to-face knowledge exchange’. This was an iterative process that involved 8 community co-design sessions, the final output of which was the Alton Estate People’s Plan, which was published in September 2021. A summary document of the People’s Plan was produced in July 2023. 
+
+This plan included a heritage impact assessment, embodied carbon analyses and provision for a higher number of social rented homes than Wandsworth Plans. The plan involved retention of the majority of the existing buildings with housing delivered through roof extensions. 
 
 ![Alton estate image](src/images/altonaction.png)
 
-In September 2022, demolition plans were put on hold under proposals to review schemes following a change of political administration from conservative to a Labour administration.
+In September 2022, demolition plans were put on hold under proposals to review schemes following a change of political administration and ongoing viability concerns. The new Labour administration also claimed that the lack of affordable housing provision was part of their rationale. Alton Action met cabinet leads soon after the elections to explain the People’s Plan. The council appointed the consultancy Inner Circle to explore options and looked into taking the review of the plan in-house.
 
-In July 2024, Wandsworth Council [announced](https://www.wandsworth.gov.uk/news/news-july-2024/alton-renewal-gets-underway-with-new-council-investment-across-the-estate/) consultation on a revised 'renewal plan' for the estate, in which it wishes to consult on different options. The announcement said that _"There is a case for some housing blocks to be considered for demolition and proposals to improve existing homes will be explored, including retrofit options."_
+In July 2024, Wandsworth Council launched the [Alton Renewal Plan](https://www.wandsworth.gov.uk/news/news-july-2024/alton-renewal-gets-underway-with-new-council-investment-across-the-estate/) creplacing the Council’s previous 2014 Regeneration Masterplan. In the shorter-term these plans involved:
+
+- Re-design of the Alton Activity Centre to cater for children of all ages, and improve the play space on Downshire Field by Spring 2026
+- Creation of a new Roehampton Community Hub on the empty site on the corner of Roehampton Lane and Danebury Avenue. This proposes a new library, youth club and 40 new Council rent homes. Construction is to start mid-2026 and is expected to be completed by mid-2028
+
+In the same month, Wandsworth Council’s Housing Overview and Scrutiny Committee  [discussed](https://www.wandsworth.gov.uk/media/122nf32u/housing_committee_paper_24_170.pdf/)
 
 ---
 
